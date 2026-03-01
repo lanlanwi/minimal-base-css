@@ -20,3 +20,12 @@ Or use it directly:
 ```html
 <link rel="stylesheet" href="base.css">
 ```
+
+## Usage
+
+Place `base.css` before your project styles.
+
+```html
+<link rel="stylesheet" href="base.css">
+<link rel="stylesheet" href="style.css">
+```
